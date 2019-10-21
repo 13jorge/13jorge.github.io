@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Grenze|Mansalva&display=swap');
+
+body {
+  background-image: url("/images/GlitchArt.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Courier New";
+  text-align: center;
+}
+
+h3 {
+  color: yellow;
+  font-size: 10pt;
+ font-family: 'Mansalva', cursive;
+
+}
+h2{
+  color: #3D95A8;
+font-family: 'Grenze', serif;
+}
+
+P {
+  color: #3D95A8;
+font-family: 'Mansalva', cursive;
+}
+
+a {
+  color: #6AFF67;
+  text-decoration: none;
+}
+a:hover {
+  background-color:#B649EB;
+}
+a:visited{
+  color:#250CE8;
+}
