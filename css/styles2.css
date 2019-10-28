@@ -1,0 +1,32 @@
+body{
+      background-image: url("/images/sea.png");
+      background-size:cover;
+      max-width: 1000px;
+      margin: 0 auto;
+      text-align: center;
+}
+.gun{
+  background-image: url(/images/jack3.png);
+  background-size: cover;
+  width: 400px;
+  height: 400px;
+  margin-left: 35%;
+  margin-bottom: 5%;
+}
+.gun:hover{
+background-image: url(/images/jack3.1.png);
+}
+.ghost{
+  background-image: url(/images/WingGhost.png);
+  background-size: cover;
+  width: 400px;
+  height: 400px;
+  margin-left: 35%;
+  margin-bottom: 5%;
+}
+.ghost:hover{
+background-image: url(/images/CreepyWingGhost.png);
+}
+.controller{
+  clear: both;
+}

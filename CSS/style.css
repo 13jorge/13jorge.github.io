@@ -1,36 +1,53 @@
-@import url('https://fonts.googleapis.com/css?family=Grenze|Mansalva&display=swap');
-
-body {
-  background-image: url("/images/GlitchArt.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  font-family: "Courier New";
+body{
+  background-image: url("/images/sea.png");
+  background-size:cover;
+  max-width: 1000px;
+  margin: 0 auto;
   text-align: center;
-}
-
-h3 {
-  color: yellow;
-  font-size: 10pt;
- font-family: 'Mansalva', cursive;
 
 }
-h2{
-  color: #3D95A8;
-font-family: 'Grenze', serif;
+h1{
+  font-size: 50pt;
+  color: red
 }
+p{
+  margin-right: 30%;
+}
+.controller{
+  clear: both;
 
-P {
-  color: #3D95A8;
-font-family: 'Mansalva', cursive;
-}
 
-a {
-  color: #6AFF67;
-  text-decoration: none;
 }
-a:hover {
-  background-color:#B649EB;
+.jack{
+  background-image: url(/images/Jack.png);
+  background-size: cover;
+  width: 400px;
+  height: 400px;
+  margin-left: 35%;
+  margin-bottom: 5%;
 }
-a:visited{
-  color:#250CE8;
+.jack:hover{
+background-image: url(/images/Jack2.png);
+}
+.board{
+  background-image: url(/images/boardjack.png);
+  background-size: cover;
+  width: 400px;
+  height: 400px;
+  margin-left: 35%;
+  margin-bottom: 5%;
+}
+.board:hover{
+background-image: url(/images/boardjack2.png);
+}
+.gun{
+  background-image: url(/images/jack3.png);
+  background-size: cover;
+  width: 400px;
+  height: 400px;
+  margin-left: 35%;
+  margin-bottom: 5%;
+}
+.gun:hover{
+background-image: url(/images/jack3.1.png);
 }
