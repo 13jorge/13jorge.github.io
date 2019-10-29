@@ -1,5 +1,5 @@
 body{
-      background-image: url("/images/sea.png");
+      background-image: url(../images/sea.png);
       background-size:cover;
       max-width: 1000px;
       margin: 0 auto;
