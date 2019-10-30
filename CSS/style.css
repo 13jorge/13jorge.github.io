@@ -19,7 +19,7 @@ p{
 
 }
 .jack{
-  background-image: url(/images/Jack.png);
+  background-image: url(../images/Jack.png);
   background-size: cover;
   width: 400px;
   height: 400px;
@@ -27,10 +27,10 @@ p{
   margin-bottom: 5%;
 }
 .jack:hover{
-background-image: url(/images/Jack2.png);
+background-image: url(../images/Jack2.png);
 }
 .board{
-  background-image: url(/images/boardjack.png);
+  background-image: url(../images/boardjack.png);
   background-size: cover;
   width: 400px;
   height: 400px;
@@ -38,10 +38,10 @@ background-image: url(/images/Jack2.png);
   margin-bottom: 5%;
 }
 .board:hover{
-background-image: url(/images/boardjack2.png);
+background-image: url(../images/boardjack2.png);
 }
 .gun{
-  background-image: url(/images/jack3.png);
+  background-image: url(../images/jack3.png);
   background-size: cover;
   width: 400px;
   height: 400px;
@@ -49,5 +49,5 @@ background-image: url(/images/boardjack2.png);
   margin-bottom: 5%;
 }
 .gun:hover{
-background-image: url(/images/jack3.1.png);
+background-image: url(../images/jack3.1.png);
 }
